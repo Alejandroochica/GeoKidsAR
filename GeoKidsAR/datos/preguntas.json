@@ -1,0 +1,93 @@
+{
+  "modo_test": {
+    "1": {
+      "10": {
+        "figura": "cuadrado",
+        "preguntas": [
+          {
+            "pregunta": "Como se llama esta figura",
+            "opciones": ["Triangulo", "Cuadrado", "Circulo", "Rectangulo"],
+            "respuesta_correcta": "cuadrado",
+            "figura_visual": "cuadrado"
+          },
+          {
+            "pregunta": "Cuantos caras tiene un cubo",
+            "opciones": ["3", "4", "5", "6"],
+            "respuesta_correcta": "6",
+            "figura_visual": "cubo"
+          },
+          {
+            "pregunta": "Que figura tiene solo tres lados",
+            "opciones": ["Cuadrado", "Triangulo", "Pentagono", "Circulo"],
+            "respuesta_correcta": "triángulo",
+            "figura_visual": "triangulo"
+          },
+          {
+            "pregunta": "Que figura no tiene lados",
+            "opciones": ["Circulo", "Cuadrado", "Rectangulo", "Rombo"],
+            "respuesta_correcta": "círculo",
+            "figura_visual": "circulo"
+          },
+          {
+            "pregunta": "Que figura 3D tiene 6 caras",
+            "opciones": ["Cubo", "Cuadrado", "Piramide", "Trapecio"],
+            "respuesta_correcta": "Cubo",
+            "figura_visual": "cubo"
+          },
+          {
+            "pregunta": "Que figura tiene lados paralelos pero no todos iguales",
+            "opciones": ["Triangulo", "Trapecio", "Circulo", "Hexagono"],
+            "respuesta_correcta": "trapecio",
+            "figura_visual": "trapecio"
+          }
+        ]
+      }
+    },
+    "2": {
+      "10": {
+        "figura": "cuadrado",
+        "preguntas": [
+          {
+            "pregunta": "Cual es el perimetro de un cuadrado con lado 5",
+            "opciones": ["10", "20", "15", "25"],
+            "respuesta_correcta": "20",
+            "figura_visual": "cuadrado"
+          },
+          {
+            "pregunta": "Que figura tiene solo 3 lados en sus caras",
+            "opciones": ["Cubo", "Hectaedro", "Piramide", "Dodecaedro"],
+            "respuesta_correcta": "Piramide",
+            "figura_visual": "piramide"
+          },
+          {
+            "pregunta": "Que figura tiene 5 vertices",
+            "opciones": ["Triangulo", "Pentagono", "Cuadrado", "Rombo"],
+            "respuesta_correcta": "pentágono",
+            "figura_visual": "pentagono"
+          },
+          {
+            "pregunta": "Que figura tiene todos sus lados iguales pero no necesariamente angulos rectos",
+            "opciones": ["Cuadrado", "Rombo", "Rectangulo", "Trapecio"],
+            "respuesta_correcta": "rombo",
+            "figura_visual": "rombo"
+          },
+          {
+            "pregunta": "Cual es el area de un cubo de lado 3",
+            "opciones": ["54", "9", "12", "3"],
+            "respuesta_correcta": "54",
+            "figura_visual": "cubo"
+          },
+          {
+            "pregunta": "Que figura tiene angulos de 90 grados pero lados desiguales",
+            "opciones": ["Rectangulo", "Rombo", "Pentagono", "Trapecio"],
+            "respuesta_correcta": "rectángulo",
+            "figura_visual": "rectangulo"
+          }
+        ]
+      }
+    }
+  },
+  "modo_voz": {
+    "10": "cuadrado"
+  }
+}
